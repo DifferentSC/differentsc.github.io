@@ -1,6 +1,8 @@
 ## About Me
 
-I am a PhD candidate at Seoul National University (SNU) Software Platform Lab (SPL), advised by Prof. Byung-Gon Chun.
+I am a PhD candidate at Seoul National University (SNU) Software Platform Lab ([SPL](https://spl.snu.ac.kr/)), advised by Prof. Byung-Gon Chun.
+My interest lies in (but not limited to) building large-scale deep learning pipeline (training/inference) and developing pretrained natural language models such as GPT-3 and BERT.
+I've also been participating many open-source projects including [Apache Nemo](https://nemo.apache.org/) and [Apache REEF](https://reef.apache.org/).
 
 * Email: gyewonleek at gmail dot com
 * Github: [https://differentsc.github.com](https://differentsc.github.com)
@@ -38,7 +40,7 @@ I am a PhD candidate at Seoul National University (SNU) Software Platform Lab (S
 
 ## Open-Source Projects
 
-* 2018-Present, Apache Nemo (incubating), PMC and committer[[Link](https://github.com/apache/incubator-nemo)]
+* 2018-Present, Apache Nemo (incubating), PMC and committer [[Link](https://github.com/apache/incubator-nemo)]
 * 2019-2021, Google Summer of Code mentor (The Apache Software Foundation)
 * 2014-2018, Apache REEF, PMC and committer [[Link](https://github.com/apache/reef)]
 * 2016-2018, MIST, core developer [[Link](https://github.com/snuspl/mist)]
