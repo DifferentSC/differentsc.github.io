@@ -18,7 +18,7 @@ I am a PhD candidate at Seoul National University (SNU) Software Platform Lab (S
   * Dissertation: Semantic-Aware Data Management for Data Processing and Deep Learining
 * 2011-2015, B.S. in Computer Science and Engineering, Seoul National University
 
-## Publications
+## Featured Publications
 
 * Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021 (to appear).
 * Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun (2021). Apache Nemo: A Framework for Optimizing Distributed Data Processing. ACM TOCS 2021 (to appear).
@@ -38,7 +38,7 @@ I am a PhD candidate at Seoul National University (SNU) Software Platform Lab (S
 
 ## Open-Source Projects
 
-* 2018-Present, Apache Nemo (incubating), PMC and committer
+* 2018-Present, Apache Nemo (incubating), PMC and committer[[Link](https://github.com/apache/incubator-nemo)]
 * 2019-2021, Google Summer of Code mentor (The Apache Software Foundation)
-* 2014-2018, Apache REEF, PMC and committer
-* 2016-2018, MIST, core developer
+* 2014-2018, Apache REEF, PMC and committer [[Link](https://github.com/apache/reef)]
+* 2016-2018, MIST, core developer [[Link](https://github.com/snuspl/mist)]
