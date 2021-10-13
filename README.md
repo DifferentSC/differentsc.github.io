@@ -48,11 +48,14 @@ I've also been participating many open-source projects including [Apache Nemo](h
 ## Technical Interests
 
 * Systematic Optimization of DL pipelines
-  * Multi-GPU & Multi-Node Training (e.g., PyTorch DDP, GPipe), Data Preprocessing and Augmentation (e.g., NVIDIA DALI), Multiprocessing for Python-based DL frameworks, ...
+  * Multi-GPU & Multi-Node Training (e.g., PyTorch DDP, GPipe)
+  * Data Preprocessing and Augmentation (e.g., NVIDIA DALI)
+  * Multiprocessing for Python-based DL frameworks
 * Large-Scale Pre-trained Language Models
   * GPT-3, DALL-E, Codex, ...
 * Distributed, Real-Time, and High-Performance Stream Processing Systems
-  * Flink, Heron, ...
+  * Apache Flink, Apache Storm
+  * Modern KV stores (RocksDB, Microsoft FASTER) for storing larger-than-memory states
 
 ## Teaching Assistant
 
