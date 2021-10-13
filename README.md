@@ -7,18 +7,23 @@ I've also been participating many open-source projects including [Apache Nemo](h
 * Email: gyewonleek at gmail dot com
 * GitHub: [https://differentsc.github.com](https://differentsc.github.com)
 
-## Research Interests
-
-* Deep learning systems (e.g., PyTorch, TensorFlow)
-* Large-scale natural language processing models (e.g., GPT-3, BERT, Codex)
-* Stream processing engines (e.g., Flink, Storm, Heron)
-* And more...
-
 ## Education
 
 * 2015-Present, Ph.D (candidate). in Computer Science and Engineering, Seoul National University (Expected graduation date: February, 2022)
   * Dissertation: Semantic-Aware Data Management for Data Processing and Deep Learining
 * 2011-2015, B.S. in Computer Science and Engineering, Seoul National University
+
+## Technical & Research Interests
+
+* Systematic Optimization of DL pipelines
+  * Multi-GPU & Multi-Node Training (e.g., PyTorch DDP, GPipe)
+  * Data Preprocessing and Augmentation (e.g., NVIDIA DALI)
+  * Multiprocessing for Python-based DL frameworks
+* Large-Scale Pre-trained Language Models
+  * GPT-3, DALL-E, Codex, ...
+* Distributed, Real-Time, and High-Performance Stream Processing Systems
+  * Apache Flink, Apache Storm
+  * Modern KV stores (RocksDB, Microsoft FASTER) for storing larger-than-memory states
 
 ## Featured Publications
 
@@ -45,19 +50,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
 * 2014-2018, Apache REEF, PMC and committer [[GitHub](https://github.com/apache/reef)]
 * 2016-2018, MIST, core developer [[GitHub](https://github.com/snuspl/mist)]
 
-## Technical Interests
-
-* Systematic Optimization of DL pipelines
-  * Multi-GPU & Multi-Node Training (e.g., PyTorch DDP, GPipe)
-  * Data Preprocessing and Augmentation (e.g., NVIDIA DALI)
-  * Multiprocessing for Python-based DL frameworks
-* Large-Scale Pre-trained Language Models
-  * GPT-3, DALL-E, Codex, ...
-* Distributed, Real-Time, and High-Performance Stream Processing Systems
-  * Apache Flink, Apache Storm
-  * Modern KV stores (RocksDB, Microsoft FASTER) for storing larger-than-memory states
-
 ## Teaching Assistant
 
 * 2018-2019, DS2 (Spark SQL, Spark Streaming) @Samsung Electronics
-* 2016, Operating Systems (4190.307) @Seoul National University
+* 2016, Operating Systems (Tizen, Linux Kernel) @Seoul National University
