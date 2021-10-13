@@ -1,7 +1,7 @@
 ## About Me
 
 I am a PhD candidate at Seoul National University (SNU) Software Platform Lab ([SPL](https://spl.snu.ac.kr/)), advised by Prof. Byung-Gon Chun.
-My interest lies in (but not limited to) building large-scale deep learning pipelines (training or inference) and developing large-scale natural language models.
+My interest lies in (but not limited to) optimizing large-scale deep learning pipelines (training or inference), developing large-scale natural language models, and building distributed data processing systems.
 I've also been participating many open-source projects including [Apache Nemo](https://nemo.apache.org/) and [Apache REEF](https://reef.apache.org/).
 
 * Email: gyewonleek at gmail dot com
@@ -16,14 +16,15 @@ I've also been participating many open-source projects including [Apache Nemo](h
 ## Technical & Research Interests
 
 * Systematic Optimization of DL pipelines
-  * Multi-GPU & Multi-Node Training (PyTorch DDP, GPipe)
+  * Multi-GPU & Multi-Node Training (PyTorch DDP, GPipe, Megatron-LM)
   * Data Preprocessing and Augmentation (tf.data, PyTorch Dataloader, DALI)
   * Multiprocessing for Python-based DL frameworks
 * Large-Scale Pre-trained Language Models
   * GPT-3, DALL-E, Codex, ...
-* Real-Time Stream Processing
-  * Distributed Stream Processing Engines (Apache Flink, Apache Storm)
-  * Modern KV stores (RocksDB, Microsoft FASTER) for storing TB-scale states
+* Large-Scale Data Processing
+  * Stream Processing Engines (Flink, Storm)
+  * Distributed 
+  * Persistent KV stores (RocksDB, Microsoft FASTER) for processing TB-scale states
 
 ## Featured Publications
 
