@@ -40,7 +40,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
 * 2021, USENIX ATC, Online, Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training.
 * 2020, Hyperconnect Seminar, Seoul, Korea, Effective State Management in Stream Analytics using Persistent Storage.
 * 2019, Naver Techtalk, Pangyo, Korea, Data Access-Pattern Aware Streaming Analytics on SSDs.
-* 2018, ACM ApSys, Jeju, Korea,  High-Performance Stateful Stream Processing on Solid-State Drives.
+* 2018, ACM APSys, Jeju, Korea,  High-Performance Stateful Stream Processing on Solid-State Drives.
 * 2017, Naver Deview, Seoul, Korea, MIST: 고성능 IoT 스트림 처리 시스템.
 
 ## Open-Source Projects
