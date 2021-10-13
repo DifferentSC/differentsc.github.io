@@ -59,5 +59,5 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 ## Teaching Assistant
 
-* 2018-2019, Samsung DS2 (Spark SQL, Spark Streaming)
-* 2016, Operating Systems (4190., Seoul National University)
+* 2018-2019, DS2 (Spark SQL, Spark Streaming) @Samsung Electronics
+* 2016, Operating Systems (4190.307) @Seoul National University
