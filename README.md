@@ -21,7 +21,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
   * Multiprocessing for Python-based DL frameworks
 * Large-Scale Pre-trained Language Models
   * GPT-3, DALL-E, Codex, ...
-* Real-Time and High-Performance Stream Processing Systems
+* Real-Time Stream Processing
   * Distributed Stream Processing Engines (Apache Flink, Apache Storm)
   * Modern KV stores (RocksDB, Microsoft FASTER) for storing TB-scale states
 
