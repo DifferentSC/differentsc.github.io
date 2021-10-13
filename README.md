@@ -22,9 +22,9 @@ I've also been participating many open-source projects including [Apache Nemo](h
 * Large-Scale Pre-trained Language Models
   * GPT-3, DALL-E, Codex, ...
 * Large-Scale Data Processing
-  * Stream Processing Engines (Flink, Storm)
-  * Distributed 
-  * Persistent KV stores (RocksDB, Microsoft FASTER) for processing TB-scale states
+  * Distributed Data Processing (Spark, Nemo, REEF)
+  * Real-Time Stream Processing (Flink, Storm)
+  * Persistent KV stores (RocksDB, Microsoft FASTER) on SSDs
 
 ## Featured Publications
 
