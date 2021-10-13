@@ -17,12 +17,12 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 * Systematic Optimization of DL pipelines
   * Multi-GPU & Multi-Node Training (PyTorch DDP, GPipe)
-  * Data Preprocessing and Augmentation (tf.data, PyTorch Dataloader, NVIDIA DALI)
+  * Data Preprocessing and Augmentation (tf.data, PyTorch Dataloader, DALI)
   * Multiprocessing for Python-based DL frameworks
 * Large-Scale Pre-trained Language Models
   * GPT-3, DALL-E, Codex, ...
 * Real-Time and High-Performance Stream Processing Systems
-  * Distributed Stream Processing Engines(Apache Flink, Apache Storm)
+  * Distributed Stream Processing Engines (Apache Flink, Apache Storm)
   * Modern KV stores (RocksDB, Microsoft FASTER) for storing TB-scale states
 
 ## Featured Publications
