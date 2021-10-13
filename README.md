@@ -1,7 +1,7 @@
 ## About Me
 
 I am a PhD candidate at Seoul National University (SNU) Software Platform Lab ([SPL](https://spl.snu.ac.kr/)), advised by Prof. Byung-Gon Chun.
-My interest lies in (but not limited to) building large-scale deep learning pipeline (training/inference) and developing pretrained natural language models such as GPT-3 and BERT.
+My interest lies in (but not limited to) building large-scale deep learning pipelines (training or inference) and developing large-scale natural language models.
 I've also been participating many open-source projects including [Apache Nemo](https://nemo.apache.org/) and [Apache REEF](https://reef.apache.org/).
 
 * Email: gyewonleek at gmail dot com
@@ -10,7 +10,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
 ## Research Interests
 
 * Deep learning systems (e.g., PyTorch, TensorFlow)
-* Natural language processing models (e.g., GPT-3, BERT, Codex)
+* Large-scale natural language processing models (e.g., GPT-3, BERT, Codex)
 * Stream processing engines (e.g., Flink, Storm, Heron)
 * And more...
 
@@ -22,8 +22,8 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 ## Featured Publications
 
-* Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021 (to appear).
-* Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun (2021). Apache Nemo: A Framework for Optimizing Distributed Data Processing. ACM TOCS 2021 (to appear).
+* Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021 (To appear).
+* Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun (2021). Apache Nemo: A Framework for Optimizing Distributed Data Processing. ACM TOCS 2021 (To appear).
 * **Gyewon Lee**, Irene Lee, Hyeonmin Ha, Kyunggeun Lee, Hwarim Hyun, Ahnjae Shin, Byung-Gon Chun (2021). Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. USENIX ATC 2021. [[Paper](https://www.usenix.org/system/files/atc21-lee.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)]
 * Taegeon Um, **Gyewon Lee**, Byung-Gon Chun (2021). Pluto: High-Performance IoT-Aware Stream Processing. IEEE ICDCS 2021. [[Paper](https://ieeexplore.ieee.org/document/9546413)]
 * **Gyewon Lee**, Jeongyoon Eo, Jangho Seo, Taegeon Um, Byung-Gon Chun (2018). High-Performance Stateful Stream Processing on Solid-State Drives, ACM APSys 2018. [[Paper](https://spl.snu.ac.kr/wp-content/uploads/2012/07/a9-lee.pdf)]
@@ -44,3 +44,17 @@ I've also been participating many open-source projects including [Apache Nemo](h
 * 2019-2021, Google Summer of Code mentor (The Apache Software Foundation)
 * 2014-2018, Apache REEF, PMC and committer [[Link](https://github.com/apache/reef)]
 * 2016-2018, MIST, core developer [[Link](https://github.com/snuspl/mist)]
+
+## Technical Interests
+
+* Systematic Optimization of DL pipelines
+  * Multi-GPU & Multi-Node Training (e.g., PyTorch DDP, GPipe), Data Preprocessing and Augmentation (e.g., NVIDIA DALI), Multiprocessing for Python-based DL frameworks, ...
+* Large-Scale Pre-trained Language Models
+  * GPT-3, DALL-E, Codex, ...
+* Distributed, Real-Time, and High-Performance Stream Processing Systems
+  * Flink, Heron, ...
+
+## Teaching Assistant
+
+* 2018-2019, Samsung DS2 (Spark SQL, Spark Streaming)
+* 2016, Operating Systems (4190., Seoul National University)
