@@ -2,8 +2,8 @@
 
 I am a PhD candidate at Seoul National University (SNU) Software Platform Lab (SPL), advised by Prof. Byung-Gon Chun.
 
-* Email: gyewonleek at gmail dot com
-* Github: https://differentsc.github.com
+* Email: gyewonleek at gmail dot com / gyewonlee at snu dot ac dot kr
+* Github: [https://differentsc.github.com](https://differentsc.github.com)
 
 ## Research Interests
 
@@ -20,13 +20,13 @@ I am a PhD candidate at Seoul National University (SNU) Software Platform Lab (S
 
 ## Publications
 
-* ACM CIKM 2021 (to appear), SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer, Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun.
-* ACM TOCS 2021 (to appear), Apache Nemo: A Framework for Optimizing Distributed Data Processing, Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun.
-* USENIX ATC 2021, Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training, **Gyewon Lee**, Irene Lee, Hyeonmin Ha, Kyunggeun Lee, Hwarim Hyun, Ahnjae Shin, Byung-Gon Chun.
-* IEEE ICDCS 2021, Pluto: High-Performance IoT-Aware Stream Processing, Taegeon Um, **Gyewon Lee**, Byung-Gon Chun.
-* ACM APSys 2018, High-Performance Stateful Stream Processing on Solid-State Drives, **Gyewon Lee**, Jeongyoon Eo, Jangho Seo, Taegeon Um, Byung-Gon Chun.
-* ACM TOCS 2017, Apache REEF: Retainable Evaluator Execution Framework, Byung-Gon Chun, Tyson Condie, Yingda Chen, Brian Cho, Andrew Chung, Carlo Curino, Chris Douglas, Matteo Interlandi, Beomyeol Jeon, Joo Seong Jeong, **Gyewon Lee**, Yunseong Lee, Tony Majestro, Dahlia Malkhi, Sergiy Matusevych, Brandon Myers, Mariia Mykhailova, Shravan M. Narayanamurthy, Joseph Noor, Raghu Ramakrishnan, Sriram Rao, Russell Sears, Beysim Sezgin, Taegeon Um, Julia Wang, Markus Weimer, Youngseok Yang.
-* ACM APSys 2017, Scaling Up IoT Stream Processing, Taegeon Um, **Gyewon Lee**, Sanha Lee, Kyungtae Kim, Byung-Gon Chun.
+* Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021 (to appear).
+* Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun (2021). Apache Nemo: A Framework for Optimizing Distributed Data Processing. ACM TOCS 2021 (to appear).
+* **Gyewon Lee**, Irene Lee, Hyeonmin Ha, Kyunggeun Lee, Hwarim Hyun, Ahnjae Shin, Byung-Gon Chun (2021). Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. USENIX ATC 2021. [[Paper](https://www.usenix.org/system/files/atc21-lee.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)]
+* Taegeon Um, **Gyewon Lee**, Byung-Gon Chun (2021). Pluto: High-Performance IoT-Aware Stream Processing. IEEE ICDCS 2021. [[Paper](https://ieeexplore.ieee.org/document/9546413)]
+* **Gyewon Lee**, Jeongyoon Eo, Jangho Seo, Taegeon Um, Byung-Gon Chun (2018). High-Performance Stateful Stream Processing on Solid-State Drives, ACM APSys 2018. [[Paper](https://spl.snu.ac.kr/wp-content/uploads/2012/07/a9-lee.pdf)]
+* Byung-Gon Chun, Tyson Condie, Yingda Chen, Brian Cho, Andrew Chung, Carlo Curino, Chris Douglas, Matteo Interlandi, Beomyeol Jeon, Joo Seong Jeong, **Gyewon Lee**, Yunseong Lee, Tony Majestro, Dahlia Malkhi, Sergiy Matusevych, Brandon Myers, Mariia Mykhailova, Shravan M. Narayanamurthy, Joseph Noor, Raghu Ramakrishnan, Sriram Rao, Russell Sears, Beysim Sezgin, Taegeon Um, Julia Wang, Markus Weimer, Youngseok Yang. Apache REEF: Retainable Evaluator Execution Framework (2017). ACM TOCS 2017. [[Paper](https://spl.snu.ac.kr/wp-content/uploads/2017/11/a5-chun-1.pdf)]
+* Taegeon Um, **Gyewon Lee**, Sanha Lee, Kyungtae Kim, Byung-Gon Chun. Scaling Up IoT Stream Processing (2017). ACM APSys 2017. [[Paper](https://spl.snu.ac.kr/wp-content/uploads/2017/11/mist.pdf)]
 
 ## Talks
 
