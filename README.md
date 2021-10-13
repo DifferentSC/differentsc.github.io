@@ -5,7 +5,7 @@ My interest lies in (but not limited to) building large-scale deep learning pipe
 I've also been participating many open-source projects including [Apache Nemo](https://nemo.apache.org/) and [Apache REEF](https://reef.apache.org/).
 
 * Email: gyewonleek at gmail dot com
-* Github: [https://differentsc.github.com](https://differentsc.github.com)
+* GitHub: [https://differentsc.github.com](https://differentsc.github.com)
 
 ## Research Interests
 
@@ -40,10 +40,10 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 ## Open-Source Projects
 
-* 2018-Present, Apache Nemo (incubating), PMC and committer [[Link](https://github.com/apache/incubator-nemo)]
+* 2018-Present, Apache Nemo (incubating), PMC and committer [[GitHub](https://github.com/apache/incubator-nemo)]
 * 2019-2021, Google Summer of Code mentor (The Apache Software Foundation)
-* 2014-2018, Apache REEF, PMC and committer [[Link](https://github.com/apache/reef)]
-* 2016-2018, MIST, core developer [[Link](https://github.com/snuspl/mist)]
+* 2014-2018, Apache REEF, PMC and committer [[GitHub](https://github.com/apache/reef)]
+* 2016-2018, MIST, core developer [[GitHub](https://github.com/snuspl/mist)]
 
 ## Technical Interests
 
