@@ -2,7 +2,7 @@
 
 I am a PhD candidate at Seoul National University (SNU) Software Platform Lab (SPL), advised by Prof. Byung-Gon Chun.
 
-* Email: gyewonleek at gmail dot com / gyewonlee at snu dot ac dot kr
+* Email: gyewonleek at gmail dot com
 * Github: [https://differentsc.github.com](https://differentsc.github.com)
 
 ## Research Interests
