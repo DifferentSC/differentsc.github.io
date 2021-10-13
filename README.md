@@ -19,8 +19,8 @@ I've also been participating many open-source projects including [Apache Nemo](h
   * Multi-GPU & Multi-Node Training (PyTorch DDP, GPipe, Megatron-LM)
   * Data Preprocessing and Augmentation (tf.data, PyTorch Dataloader, DALI)
   * Multiprocessing for Python-based DL frameworks
-* Large-Scale Pre-trained Language Models
-  * GPT-3, DALL-E, Codex, ...
+* Large-Scale Deep Neural Networks
+  * Pretrained language models (GPT-3, DALL-E, Codex)
 * Large-Scale Data Processing
   * Distributed Data Processing (Spark, Nemo, REEF)
   * Real-Time Stream Processing (Flink, Storm)
