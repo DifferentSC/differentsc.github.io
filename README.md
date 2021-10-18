@@ -5,7 +5,7 @@ My interest lies in (but not limited to) optimizing large-scale deep learning pi
 I've also been participating many open-source projects including [Apache Nemo](https://nemo.apache.org/) and [Apache REEF](https://reef.apache.org/).
 
 * Email: gyewonleek at gmail dot com
-* GitHub: [https://differentsc.github.com](https://differentsc.github.com)
+* GitHub: [https://github.com/differentsc](https://github.com/differentsc)
 
 ## Education
 
