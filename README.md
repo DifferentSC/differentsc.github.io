@@ -1,15 +1,17 @@
 ## About Me
 
-I am a PhD candidate at Seoul National University (SNU) Software Platform Lab ([SPL](https://spl.snu.ac.kr/)), advised by Prof. Byung-Gon Chun.
-My interest lies in (but not limited to) optimizing large-scale deep learning pipelines (training or inference), developing large-scale natural language models, and building distributed data processing systems.
+I am an AI system researcher working at FriendliAI. I received my PhD at Seoul National University (SNU) Software Platform Lab ([SPL](https://spl.snu.ac.kr/)), advised by Prof. Byung-Gon Chun.
+My interest lies in (but not limited to) optimizing training & inference of large-scale deep learning models, developing large-scale natural language models, and building distributed data processing systems.
 I've also been participating many open-source projects including [Apache Nemo](https://nemo.apache.org/) and [Apache REEF](https://reef.apache.org/).
 
 * Email: gyewonleek at gmail dot com
+* LinkedIn: [https://www.linkedin.com/in/gyewon-lee-284236223/](https://www.linkedin.com/in/gyewon-lee-284236223/)
 * GitHub: [https://github.com/differentsc](https://github.com/differentsc)
 
 ## Education
 
-* 2015-Present, Ph.D (candidate). in Computer Science and Engineering, Seoul National University (Expected graduation date: February, 2022)
+* 2022-Present AI system researcher, [FriendliAI](https://friendli.ai/)
+* 2015-2022, Ph.D. in Computer Science and Engineering, Seoul National University
   * Dissertation: Semantic-Aware Data Management for Data Processing and Deep Learining
 * 2011-2015, B.S. in Computer Science and Engineering, Seoul National University
 
@@ -28,8 +30,9 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 ## Featured Publications
 
-* Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021 (To appear).
-* Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun (2021). Apache Nemo: A Framework for Optimizing Distributed Data Processing. ACM TOCS 2021 (To appear).
+* **Gyewon Lee**, Jaewoo Maeng, Jinsol Park, Jangho Seo, Haeyoon Cho, Youngseok Yang, Taegeum Um, Jongsung Lee, Jae W. Lee, Byung-Gon Chun (2023).  FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines. ACM EuroSys 2023. (To Appear)
+* Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021. [[Paper] (https://dl.acm.org/doi/abs/10.1145/3459637.3482176)]
+* Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun (2021). Apache Nemo: A Framework for Optimizing Distributed Data Processing. ACM TOCS 2021. [[Paper](https://dl.acm.org/doi/full/10.1145/3468144)]
 * **Gyewon Lee**, Irene Lee, Hyeonmin Ha, Kyunggeun Lee, Hwarim Hyun, Ahnjae Shin, Byung-Gon Chun (2021). Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. USENIX ATC 2021. [[Paper](https://www.usenix.org/system/files/atc21-lee.pdf)]
 * Taegeon Um, **Gyewon Lee**, Byung-Gon Chun (2021). Pluto: High-Performance IoT-Aware Stream Processing. IEEE ICDCS 2021. [[Paper](https://ieeexplore.ieee.org/document/9546413)]
 * **Gyewon Lee**, Jeongyoon Eo, Jangho Seo, Taegeon Um, Byung-Gon Chun (2018). High-Performance Stateful Stream Processing on Solid-State Drives, ACM APSys 2018. [[Paper](https://spl.snu.ac.kr/wp-content/uploads/2012/07/a9-lee.pdf)]
@@ -38,6 +41,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 ## Talks
 
+* 2023, Naver Techtalk, Pangyo, Korea, Revamper: A Smart Caching System for Faster DNN Training with Data Augmentation.
 * 2021, USENIX ATC, Online, Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)] [[Video](https://youtu.be/tSq--gKuz8o)]
 * 2020, Hyperconnect Seminar, Seoul, Korea, Effective State Management in Stream Analytics using Persistent Storage.
 * 2019, Naver Techtalk, Pangyo, Korea, Data Access-Pattern Aware Streaming Analytics on SSDs.
