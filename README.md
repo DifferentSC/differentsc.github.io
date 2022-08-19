@@ -31,7 +31,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
 ## Featured Publications
 
 * **Gyewon Lee**, Jaewoo Maeng, Jinsol Park, Jangho Seo, Haeyoon Cho, Youngseok Yang, Taegeum Um, Jongsung Lee, Jae W. Lee, Byung-Gon Chun (2023).  FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines. ACM EuroSys 2023. (To Appear)
-* Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021. [[Paper] (https://dl.acm.org/doi/abs/10.1145/3459637.3482176)]
+* Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482176)]
 * Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun (2021). Apache Nemo: A Framework for Optimizing Distributed Data Processing. ACM TOCS 2021. [[Paper](https://dl.acm.org/doi/full/10.1145/3468144)]
 * **Gyewon Lee**, Irene Lee, Hyeonmin Ha, Kyunggeun Lee, Hwarim Hyun, Ahnjae Shin, Byung-Gon Chun (2021). Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. USENIX ATC 2021. [[Paper](https://www.usenix.org/system/files/atc21-lee.pdf)]
 * Taegeon Um, **Gyewon Lee**, Byung-Gon Chun (2021). Pluto: High-Performance IoT-Aware Stream Processing. IEEE ICDCS 2021. [[Paper](https://ieeexplore.ieee.org/document/9546413)]
@@ -41,7 +41,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 ## Talks
 
-* 2023, Naver Techtalk, Pangyo, Korea, Revamper: A Smart Caching System for Faster DNN Training with Data Augmentation.
+* 2022, Naver Techtalk, Pangyo, Korea, Revamper: A Smart Caching System for Faster DNN Training with Data Augmentation.
 * 2021, USENIX ATC, Online, Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)] [[Video](https://youtu.be/tSq--gKuz8o)]
 * 2020, Hyperconnect Seminar, Seoul, Korea, Effective State Management in Stream Analytics using Persistent Storage.
 * 2019, Naver Techtalk, Pangyo, Korea, Data Access-Pattern Aware Streaming Analytics on SSDs.
