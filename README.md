@@ -30,7 +30,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 ## Featured Publications
 
-* **Gyewon Lee**, Jaewoo Maeng, Jinsol Park, Jangho Seo, Haeyoon Cho, Youngseok Yang, Taegeum Um, Jongsung Lee, Jae W. Lee, Byung-Gon Chun (2023).  FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines. ACM EuroSys 2023. (To Appear)
+* **Gyewon Lee**, Jaewoo Maeng, Jinsol Park, Jangho Seo, Haeyoon Cho, Youngseok Yang, Taegeum Um, Jongsung Lee, Jae W. Lee, Byung-Gon Chun (2023).  FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines. ACM EuroSys 2023. [[Paper](https://dl.acm.org/doi/10.1145/3552326.3567493)]
 * Dohyeon Lee, Jaeseong Lee, **Gyewon Lee**, Seung-Won Hwang, Byung-Gon Chun (2021). SCOPA : Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer. ACM CIKM 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482176)]
 * Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, **Gyewon Lee**, Taegeon Um, Haeyoon Cho, Byung-Gon Chun (2021). Apache Nemo: A Framework for Optimizing Distributed Data Processing. ACM TOCS 2021. [[Paper](https://dl.acm.org/doi/full/10.1145/3468144)]
 * **Gyewon Lee**, Irene Lee, Hyeonmin Ha, Kyunggeun Lee, Hwarim Hyun, Ahnjae Shin, Byung-Gon Chun (2021). Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. USENIX ATC 2021. [[Paper](https://www.usenix.org/system/files/atc21-lee.pdf)]
