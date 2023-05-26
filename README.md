@@ -8,11 +8,12 @@ I've also been participating many open-source projects including [Apache Nemo](h
 * LinkedIn: [https://www.linkedin.com/in/gyewon-lee-284236223/](https://www.linkedin.com/in/gyewon-lee-284236223/)
 * GitHub: [https://github.com/differentsc](https://github.com/differentsc)
 
-## Education
+## Career
 
 * 2022-Present AI system researcher, [FriendliAI](https://friendli.ai/)
 * 2015-2022, Ph.D. in Computer Science and Engineering, Seoul National University
   * Dissertation: Semantic-Aware Data Management for Data Processing and Deep Learining
+* 2015 Summer, Research Intern, Microsoft Research Asia
 * 2011-2015, B.S. in Computer Science and Engineering, Seoul National University
 
 ## Technical & Research Interests
@@ -41,6 +42,7 @@ I've also been participating many open-source projects including [Apache Nemo](h
 
 ## Talks
 
+* 2023, ACM EuroSys, Rome, Italy, FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines. [[Program](https://2023.eurosys.org/program.html)]
 * 2022, Naver Techtalk, Pangyo, Korea, Revamper: A Smart Caching System for Faster DNN Training with Data Augmentation.
 * 2021, USENIX ATC, Online, Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. [[Slides](https://www.usenix.org/system/files/atc21_slides_lee.pdf)] [[Video](https://youtu.be/tSq--gKuz8o)]
 * 2020, Hyperconnect Seminar, Seoul, Korea, Effective State Management in Stream Analytics using Persistent Storage.
